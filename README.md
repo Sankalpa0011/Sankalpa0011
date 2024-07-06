@@ -11,7 +11,7 @@ Institute of Technology, University of Moratuwa
 
 ## 👋 About Me
 
-I'm an enthusiastic IT student with a passion for data science. With a strong background in Python and various data analysis tools, I aim to solve real-world problems through data-driven insights. My experience ranges from machine learning and AI projects to spatial data analysis and eye-tracking studies. 
+I'm an enthusiastic IT student with a passion for data science. With a strong background in Python and various data analysis tools, I aim to solve real-world problems through data-driven insights. My experience ranges from machine learning and AI projects to spatial data analysis. 
 
 ---
 
