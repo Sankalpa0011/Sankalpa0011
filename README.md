@@ -1,10 +1,10 @@
 ---
 # Kavindu Sankalpa
 
-**IT Undergraduate**  
-- Institute of Technology, University of Moratuwa  
-- 📍 Kandy, Sri Lanka
-
+IT Undergraduate: 
+  - Institute of Technology, University of Moratuwa
+  - 📍 Kandy, Sri Lanka
+    
 ---
 
 ## About Me
