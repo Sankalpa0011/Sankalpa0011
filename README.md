@@ -2,7 +2,7 @@
 
 **IT Undergraduate**  
 - Institute of Technology, University of Moratuwa  
-- 📍 Kandy, Sri Lanka
+- 📍 Homagama, Sri Lanka
 
 ---
 
