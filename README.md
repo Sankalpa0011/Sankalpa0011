@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sankalpa</h1>
-<h3 align="center">I’m a passionate IT student focusing on data science, machine learning, and AI. Currently, I'm studying Neural Networks and Generative AI.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
-
-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
-
-- 💬 Learning about **Deep Learning, AI, Computer Vision, LLM**
-
-- 📫 Business inquiries **sankalpakavindu09@gmail.com**
-
 <h1 align="center">Hi 👋, I'm Kavindu Sankalpa</h1>
 <h3 align="center">I’m a passionate IT student focusing on data science, machine learning, and AI. Currently, I'm studying Neural Networks and Generative AI.</h3>
+
+- 💬 Learning about **Deep Learning, AI, Computer Vision, LLM**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusankalpa&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavindusankalpa" /> </p>
 
