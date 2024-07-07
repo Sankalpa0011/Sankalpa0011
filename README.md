@@ -32,8 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindusankalpa&show_icons=true&theme=dark&locale=en" alt="kavindusankalpa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindusankalpa&theme=dark" alt="kavindusankalpa" /></p>
-
-
-
-
-
