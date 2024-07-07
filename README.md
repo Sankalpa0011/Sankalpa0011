@@ -5,27 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusankalpa&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavindusankalpa" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/kavindu-sankalpa" target="blank"><img src="https://img.shields.io/twitter/follow/Sankalpa_2000?logo=twitter&style=for-the-badge" alt="kavindu-sankalpa" /></a> </p>
 <p align="left"> <a href="https://linkedin.com/in/kavindu-sankalpa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="kavindu-sankalpa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sankalpa_2000" target="blank"><img src="https://img.shields.io/twitter/follow/Sankalpa_2000?logo=twitter&style=for-the-badge" alt="Sankalpa_2000" /></a> </p>
 
 # Kavindu Sankalpa
 
 **IT Undergraduate**  
 - Institute of Technology, University of Moratuwa  
 - 📍 Kandy, Sri Lanka
-
----
-
-### 📫 How to Reach Me
-<p align="left"> 
-  <a href="mailto:sankalpakavindu09@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="40" />
-  </a>
-  <a href="mailto:sankalpakavindu09@gmail.com">
-    <strong>sankalpakavindu09@gmail.com</strong>
-  </a>
-</p>
-
+- 📧  <a href="mailto:sankalpakavindu09@gmail.com" style="text-decoration: none;"><strong>sankalpakavindu09@gmail.com</strong></a>
 ---
 
 <h3 align="left">Connect with me:</h3>
