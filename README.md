@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Sankalpa</h1>
-<h3 align="center">I’m a passionate IT student focusing on data science, machine learning, and AI.</h3>
+<h3 align="center">I’m a passionate IT student focusing on Data Science, Machine Learning, and AI.</h3>
 
 - 💬 Currently Learning about **Generative AI, LLM, Computer Vision**
 
@@ -20,7 +20,7 @@
   <a href="mailto:sankalpakavindu09@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
-  - <b></b>sankalpakavindu09@gmail.com</b>
+  - <strong></b>sankalpakavindu09@gmail.com</strong>
 </p>
 
 ---
