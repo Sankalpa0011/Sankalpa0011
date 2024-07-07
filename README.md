@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusankalpa&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavindusankalpa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Sankalpa_2000" target="blank"><img src="https://img.shields.io/twitter/follow/kavindus_ai?logo=twitter&style=for-the-badge" alt="kavindus_ai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sankalpa_2000" target="blank"><img src="https://img.shields.io/twitter/follow/Sankalpa_2000?logo=twitter&style=for-the-badge" alt="Sankalpa_2000" /></a> </p>
 
 # Kavindu Sankalpa
 
