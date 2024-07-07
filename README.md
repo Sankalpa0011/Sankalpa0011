@@ -20,7 +20,6 @@
   <a href="mailto:sankalpakavindu09@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/kavindus_ai" target="blank"><img src="https://img.shields.io/twitter/follow/kavindus_ai?logo=twitter&style=for-the-badge" alt="kavindus_ai" /></a> 
 </p>
 
 ---
