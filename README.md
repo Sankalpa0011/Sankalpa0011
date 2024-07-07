@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/kavindu-sankalpa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="kavindu-sankalpa" /></a> </p>
 <p align="left"> <a href="https://twitter.com/Sankalpa_2000" target="blank"><img src="https://img.shields.io/twitter/follow/Sankalpa_2000?logo=twitter&style=for-the-badge" alt="Sankalpa_2000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sankalpa_2000" target="blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge" alt="Sankalpa_2000" /></a> </p>
 
 # Kavindu Sankalpa
 
