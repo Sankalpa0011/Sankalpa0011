@@ -62,7 +62,14 @@
 ---
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sankalpa0011&show_icons=true&theme=dark&locale=en&v=1" alt="Sankalpa0011" />-->
-<p><img align="center" src="https://streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force" alt="Sankalpa0011" /></p>
+<!--p><img align="center" src="https://streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force" alt="Sankalpa0011" /></p-->
+<p><img id="streak-stats" align="center" src="https://streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force" alt="Sankalpa0011" /></p>
+
+<script>
+  const img = document.getElementById('streak-stats');
+  const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+  img.src += `&date=${date}`;
+</script>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
