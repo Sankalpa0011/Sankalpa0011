@@ -67,8 +67,8 @@
 
 <script>
   const img = document.getElementById('streak-stats');
-  const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
-  img.src += `&date=${date}`;
+  const timestamp = new Date().getTime();
+  img.src += `&t=${timestamp}`;
 </script>
 
 <p align="center">
