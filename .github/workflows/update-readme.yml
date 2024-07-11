@@ -1,11 +1,8 @@
-name: Update README
+name: Update README with GitHub Streak Stats
 
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at midnight UTC daily
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -16,13 +13,14 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i 's/<!--START_SECTION:waka-->/<!--START_SECTION:waka-->\
-          ![GitHub Streak](https:\/\/streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force)/' README.md
+          echo "Updating README with the latest GitHub streak stats..."
+          sed -i '/<p><img align="center" src="https:\/\/streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force" alt="Sankalpa0011" \/>/d' README.md
+          echo '<p><img align="center" src="https://streak-stats.demolab.com?user=Sankalpa0011&theme=dark&cache=force" alt="Sankalpa0011" /></p>' >> README.md
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'Update README with GitHub streak stats'
+          git commit -m 'Update README with latest GitHub streak stats'
           git push
