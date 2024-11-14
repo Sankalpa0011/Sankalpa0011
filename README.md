@@ -66,6 +66,6 @@
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa0011&theme=dark" alt="Sankalpa0011" /></p-->
 
 
-<p align="center">
+<!--p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+</p-->
