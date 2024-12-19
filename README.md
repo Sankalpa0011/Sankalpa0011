@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Sankalpa</h1>
 <h3 align="center">I’m a passionate IT student focusing on Data Science, Machine Learning, and AI.</h3>
 
-- 💬 Currently Learning about **Generative AI, LLM, Computer Vision**
+- 💬 Currently Learning about **Generative AI, LLM, MLOps**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusankalpa&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavindusankalpa" /> </p>
 
