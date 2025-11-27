@@ -10,11 +10,9 @@
 
 # Kavindu Sankalpa
 
-**IT Undergraduate**  
+**IT / Data Science Undergraduate**  
 - Institute of Technology, University of Moratuwa
-**Data Science Undergraduate**
 - London Metropolitan Unversity (UK)
-
 - 📍 Kandy, Sri Lanka
 - 📧  <a href="mailto:sankalpakavindu09@gmail.com" style="text-decoration: none;"><strong>sankalpakavindu09@gmail.com</strong></a>
 ---
